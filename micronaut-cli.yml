@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.fridge
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, aws-cdk, aws-codebuild-workflow-ci, aws-lambda, aws-lambda-handler-function, aws-v2-sdk, dynamodb, graphql, java, junit, logback, maven, readme, serialization-jackson, shade, snapstart, x86, yaml]
